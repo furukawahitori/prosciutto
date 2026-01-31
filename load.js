@@ -1,0 +1,1 @@
+$gameMessage.add("load");
